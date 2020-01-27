@@ -73,7 +73,7 @@ public class MyMath {
 
         str = "A Star Is Born";
 
-        
+
 
     }
 }
